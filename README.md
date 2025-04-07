@@ -6,6 +6,10 @@
 
 ---
 
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz067&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz067&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/> </p>
+
+---
+
 ## 💡 Sobre mim
 
 Sou apaixonado por tecnologia e comunicação. Atualmente atuo como **desenvolvedor, suporte, infra** e também como **suporvisor na area de TI**, unindo criatividade com lógica para entregar soluções impactantes. Tenho experiência com:
