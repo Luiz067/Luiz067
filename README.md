@@ -15,10 +15,8 @@
 Sou apaixonado por tecnologia e comunicação. Atualmente atuo como **desenvolvedor, suporte, infra** e também como **suporvisor na area de TI**, unindo criatividade com lógica para entregar soluções impactantes. Tenho experiência com:
 
 - Desenvolvimento Web (HTML, CSS, JavaScript, PHP, C#)
-- .NET, Razor Pages, C++ Builder (legado)
-- Integrações com sistemas como Mailchimp e OneDrive
 - Marketing Digital e Produção de Conteúdo para Instagram
-- Design e Identidade Visual para instituições educacionais e clínicas
+- Design e Identidade Visual para instituições educacionais
 
 ---
 
