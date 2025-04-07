@@ -6,7 +6,7 @@
 
 ---
 
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz067&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz067&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/> </p>
+<!-- <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz067&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz067&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"/> </p> -->
 
 ---
 
