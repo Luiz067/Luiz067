@@ -53,9 +53,4 @@ Sou apaixonado por tecnologia e comunicação. Atualmente atuo como **desenvolve
 
 ---
 
-## 🐍 Snake eating my contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Luiz067/Luiz067/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
 
