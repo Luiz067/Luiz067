@@ -31,15 +31,6 @@ Sou apaixonado por tecnologia e comunicação. Atualmente atuo como **desenvolve
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-## 📂 Projetos em destaque
-
-- 🎓 **Site Institucional - Faculdade Modelo**  
-  Front-end completo com HTML, CSS e integração dinâmica em PHP.
-
-- 💡 **Sistema de Integração Contábil em .NET**  
-  Conversão de procedures SQL para serviços em C#, com geração de arquivos .txt automatizados.
 
 ---
 
